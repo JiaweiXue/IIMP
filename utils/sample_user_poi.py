@@ -232,7 +232,7 @@ print ("# sampled user", len(sample_entity(user_mob_text, 80, 8)))
 sampled_user = sample_entity(user_mob_text, 50, 5)       #Threshold 1
 
 
-# # 2.2: sample POIs
+# # 2.3: sample POIs
 
 # In[12]:
 
