@@ -14,13 +14,13 @@ A bipartite graph neural network that predicts individual **irregular trips** to
 
 ## Directory structure
 * **utils**: formulate the IIMP as a link prediction task in a bipartite graph, and prepare mobility feature and web search feature.  
-* **model**: build the WS-BiGNN class and its ablation clasees
+* **model**: build the WS-BiGNN class and its ablation classes.
 * **result**: the screenshot of implementation results.
 * **figure**: the problem and method.
 
 ## Requirements
-* Python 2.7.5 or higher
-* Torch 2.0.0 or higher 
+* Python 2.7.5 or higher.
+* Torch 2.0.0 or higher. 
 
 ## Manuscript
 **Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks.**
