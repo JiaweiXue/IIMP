@@ -14,7 +14,7 @@ A bipartite graph neural network that predicts individual **irregular trips** to
 
 ## Directory structure
 * **utils**: formulate the IIMP as a link prediction task in a bipartite graph, and prepare mobility feature and web search feature.  
-* **model**: build the WS-BiGNN class.
+* **model**: build the WS-BiGNN class and its ablation clasees
 * **result**: the screenshot of implementation results.
 * **figure**: the problem and method.
 
