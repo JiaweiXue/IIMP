@@ -25,6 +25,7 @@ Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma\*, Satish V. Ukkusuri\*, J
 * **utils**: formulate the IIMP as a link prediction task on a bipartite graph, and prepare mobility feature and web search feature.  
 * **model**: build the WS-BiGNN class.
 * **result**: the screenshot of implementation results.
+* **figure**: the problem and method.
 
 ## License
 MIT license
