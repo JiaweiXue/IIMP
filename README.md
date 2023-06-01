@@ -22,9 +22,9 @@ Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma\*, Satish V. Ukkusuri\*, J
 * Torch 2.0.0 or higher 
 
 ## Directory Structure
-* **data-collection**: 
-* **intra-city-network-homogeneity**:
-* **intra-city-network-homogeneity**:
+* **utils**: formulate the IIMP as a link prediction task on a bipartite graph, and prepare mobility feature and web search feature.  
+* **model**: build the WS-BiGNN class.
+* **result**: the screenshot of implementation results.
 
 ## License
 MIT license
