@@ -1,7 +1,7 @@
 # IIMP: Individual Irregular Mobility Prediction
 A bipartite graph neural network that predicts individual **irregular trips** to point-of-interests (POIs) one day in advance.
 
-**Irregular trips**: the trips to destintations excluding homes and workplaces, encompassing venues like cinemas, parks, and shopping malls.
+**Irregular trips**: the trips to destinations excluding homes and workplaces, encompassing venues like cinemas, parks, and shopping malls.
 
 ## Introduction
 
@@ -9,10 +9,10 @@ A bipartite graph neural network that predicts individual **irregular trips** to
 * In order to address the challenge of IIMP, we propose a web search-driven bipartite graph neural network, namely WS-BiGNN.
 * WS-BiGNN utilizes historical mobility and web search records as input, with the goal of accurately predicting future human mobility.
 * To effectively harness the insights gained from web search data, WS-BiGNN encompasses three specific design elements: hyperedges, a temporal weighting mechanism, and search-mobility memory.
-* Through experimental analysis using actual data from Yahoo! Japan Corportation under strict privacy protection rules, we demonstrate the valuable role of web search data and the superior prediction performance of WS-BiGNN.
+* Through experimental analysis using actual data from Yahoo! Japan Corporation under strict privacy protection rules, we demonstrate the valuable role of web search data and the superior prediction performance of WS-BiGNN.
 
 ## Directory structure
-* **utils**: formulate the IIMP as a link prediction task in a bipartite graph, and prepare mobility feature and web search feature.  
+* **utils**: formulate the IIMP as a link prediction task in a bipartite graph, and prepare the mobility feature and web search feature.  
 * **model**: build the WS-BiGNN class and its ablation classes.
 * **result**: the screenshot of implementation results.
 * **figure**: the problem and method.
