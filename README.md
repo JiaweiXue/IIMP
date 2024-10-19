@@ -23,7 +23,8 @@ A bipartite graph neural network that predicts individual **irregular trips** to
 
 ## Manuscript
 **Predicting Individual Irregular Mobility via Web Search-Driven Bipartite Graph Neural Networks.**
-Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma\*, Satish V. Ukkusuri\*, June 2023.
+Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma\*, Satish V. Ukkusuri\*, 
+IEEE Transactions on Knowledge and Data Engineering, 2024.
 
 ## Utilizing past mobility and web search to predict future mobility
 
